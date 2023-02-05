@@ -29,11 +29,11 @@ Bu projede kullanmak için öncelikle bir API seçmelisiniz. [Bu adresten](https
 - "Favoriler" kısmında daha önce favorilere eklenmiş ögeler görüntülenmeli
 - "Favoriler" localStorage içerisinde tutulmalı ve uygulama ilk açıldığında localStorage içerisinde bu amaçla saklanmış veri varsa kontrol edilmeli ve kullanılmalı.
 
-* [ ] Projeyi inceleyin ve componentların birbiriyle ilişkisini anlayın.
+* [X] Projeyi inceleyin ve componentların birbiriyle ilişkisini anlayın.
 
-* [ ] Kullanmak için bir API seçin. Burada fazla vakit kaybetmeyin, hoşunuza giden biri ile başlayın.
+* [X] Kullanmak için bir API seçin. Burada fazla vakit kaybetmeyin, hoşunuza giden biri ile başlayın.
 
-* [ ] `redux` ve `react-redux` paketleri sizin için eklendi. Siz de `redux-thunk` paketini kurun ve store oluşturma aşamasında ilgili yerde kullanın.
+* [X] `redux` ve `react-redux` paketleri sizin için eklendi. Siz de `redux-thunk` paketini kurun ve store oluşturma aşamasında ilgili yerde kullanın.
 
 * [ ] Projeye `axios` paketini ekleyin.
 
